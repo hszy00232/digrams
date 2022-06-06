@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T07:59:31.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="IDr2bcKJTACN_7SY7z4P" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T10:33:50.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="kehLET-P0NE_4TnJ2aJK" version="19.0.0" type="github">
   <diagram id="crn--hlIMHUMHz6F5_OJ" name="Page-1">
-    <mxGraphModel dx="1235" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="850" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,10 +32,10 @@
           <mxGeometry x="690" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9kOQ5PttH7CepgaANhRz-10" value="获取原生Searcher的返回" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="95" width="120" height="50" as="geometry" />
+          <mxGeometry x="40" y="20" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9kOQ5PttH7CepgaANhRz-11" value="获取模拟Searcher的返回" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="155" width="120" height="50" as="geometry" />
+          <mxGeometry x="30" y="-40" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gGVx2WvzArmcPadPBa9t-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9kOQ5PttH7CepgaANhRz-13" target="gGVx2WvzArmcPadPBa9t-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -84,7 +84,7 @@
         <mxCell id="IQfWfNLslKrxgvm1G1px-4" value="ob_ext&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ui_ip: 10.16.111.172&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ui_env: personal&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;searcher_type: fake&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="IQfWfNLslKrxgvm1G1px-6" value="ob_ext&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ui_host: intf.onebox.so.com&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ui_ip: 10.16.111.172&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ui_env: test&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;searcher_host: srv102.se.zzzc.qihoo.net&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;searcher_port: 49531&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IQfWfNLslKrxgvm1G1px-6" value="ob_ext&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ui_host: intf.onebox.so.com&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ui_ip: 10.16.111.172&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ui_env: test&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;searcher_type: natural&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;searcher_host: srv102.se.zzzc.qihoo.net&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;searcher_port: 49531&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="665" y="160" width="235" height="110" as="geometry" />
         </mxCell>
         <mxCell id="IQfWfNLslKrxgvm1G1px-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQfWfNLslKrxgvm1G1px-9" target="IQfWfNLslKrxgvm1G1px-10">
@@ -95,6 +95,15 @@
         </mxCell>
         <mxCell id="IQfWfNLslKrxgvm1G1px-10" value="ob_ext&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ui_ip: 10.146.10.192:8964&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ui_env: online&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;searcher_type: fake&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ui_host: open.onebox.so.com&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="160" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IQfWfNLslKrxgvm1G1px-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQfWfNLslKrxgvm1G1px-12" target="IQfWfNLslKrxgvm1G1px-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IQfWfNLslKrxgvm1G1px-12" value="获取请求引擎的参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IQfWfNLslKrxgvm1G1px-13" value="simulate_item" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
