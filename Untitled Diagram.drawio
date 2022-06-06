@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T03:41:47.471Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="T_MSTOWv7abcqABQ7i1K" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T03:42:35.486Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="jnLBEBP0Ru-_-kpfXmJr" version="16.5.6" type="github">
   <diagram id="crn--hlIMHUMHz6F5_OJ" name="Page-1">
     <mxGraphModel dx="850" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,16 +23,16 @@
           <mxGeometry x="320" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9kOQ5PttH7CepgaANhRz-7" value="指定类型Box的UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9kOQ5PttH7CepgaANhRz-9" value="指定类型Box的data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9kOQ5PttH7CepgaANhRz-10" value="获取原生Searcher的返回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="120" height="50" as="geometry" />
+          <mxGeometry x="80" y="95" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9kOQ5PttH7CepgaANhRz-11" value="获取模拟Searcher的返回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="140" width="120" height="50" as="geometry" />
+          <mxGeometry x="80" y="155" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9kOQ5PttH7CepgaANhRz-13" value="结果页" style="whiteSpace=wrap;html=1;align=center;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" width="120" height="40" as="geometry" />
